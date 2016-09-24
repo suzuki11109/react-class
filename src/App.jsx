@@ -1,11 +1,11 @@
 import React from 'react';
-import Counter from './Counter';
+import ChatBox from './ChatBox';
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        <Counter />
+        <ChatBox />
       </div>
     );
   }
